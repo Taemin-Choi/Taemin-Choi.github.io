@@ -1,15 +1,15 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Taemin Choi
+bio:                'Robotics Software Developer'
+description:        "Hello! I am a Robotics Software Developer from Korea."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
-
+# url:                http://127.0.0.1:4000/
+url:                https://Taemin-Choi.github.io/
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   Taemin
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,23 +37,23 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+#email: choitm0707@kist.re.kr
+#twitter:            username
+#facebook:           username
+github-url:         Taemin-Choi
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
+# youtube:           https://www.youtube.com/channel/UCD6yMnNtTlmlDeBOp814Q2w
+youtube-channel:   UCD6yMnNtTlmlDeBOp814Q2w
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
