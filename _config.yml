@@ -9,7 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                http://127.0.0.1:4000/
-url:                https://Taemin-Choi.github.io/
+url:                https://Taemin-Choi.github.io
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   Taemin
+disqus_shortname:   greedy-developer
 
 # Social
 # if you don't have any of social below, comment the line.
