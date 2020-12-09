@@ -1,2 +1,1 @@
-# Taemin-Choi.github.io
-Taemin-Choi Website
+Taemin-Choi Portfolio
